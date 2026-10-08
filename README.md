@@ -1,17 +1,49 @@
-# Byron Day 2026 — Ingeniosas
 
-Sitio web estático para GitHub Pages con la invitación oficial como portada y registro mediante Google Apps Script y Google Sheets.
+# ✦ BYRON DAY 2026 ✦
 
-## Publicar
-1. Crea un repositorio público llamado `byron-day-2026` en la cuenta `ingeniosas-ibero`.
-2. Sube `index.html` y `invitacion-byron-day.png` a la raíz del repositorio. Mantén ambos archivos juntos.
-3. En Settings → Pages, selecciona Deploy from a branch, `main`, carpeta `/ (root)` y guarda.
-4. Abre Google Sheets, crea una hoja con pestaña `Registros` y encabezados: `Fecha`, `Nombre`, `Correo`, `Carrera`.
-5. En Extensiones → Apps Script, pega `Code.gs` y guarda.
-6. En Implementar → Nueva implementación → Aplicación web, ejecuta como tu cuenta y elige acceso `Cualquier persona` (si está disponible). Autoriza y copia la URL terminada en `/exec`.
-7. En `index.html`, sustituye `PEGA_AQUI_TU_URL_DE_APPS_SCRIPT` por esa URL, haz commit y espera la publicación.
-8. Haz un registro de prueba y comprueba **directamente en la hoja** que se haya guardado.
+<div align="center">
 
-**Importante:** el formulario envía los datos a un iframe porque Apps Script no expone CORS a GitHub Pages. Por ello la página **no puede verificar que el registro se guardó**; muestra un aviso de envío pendiente. Para confirmaciones verificadas se requiere un backend que soporte CORS y respuestas comprobables. No publiques correos ni datos de asistentes en el repositorio. Elige con cuidado el nivel de acceso de Apps Script, ya que su endpoint será público.
+### Consejo Estudiantil de Mujeres en STEM
+**Universidad Iberoamericana León**
 
-Si se recopilan datos personales, publica un aviso de privacidad aprobado por la institución y define quién tendrá acceso a la hoja y cuándo se eliminarán los datos. Revisa también las carreras ofrecidas antes de publicarlo.
+*Celebrando el legado de Ada Byron y el talento de las mujeres en STEM.*
+
+💜
+
+**📅 13 de octubre de 2026 | 🕟 4:30 p. m. | 📍 Auditorio Ellacuría**
+
+</div>
+
+---
+
+## ✨ Sobre el evento
+
+**Byron Day** es un espacio para reconocer el legado de Ada Lovelace, compartir experiencias y fortalecer la comunidad de mujeres en ciencia, tecnología, ingeniería y matemáticas.
+
+Una tarde para conectar, inspirarnos y celebrar lo que podemos construir juntas.
+
+## 💜 ¿Qué encontrarás?
+
+- Un espacio de convivencia y conexión entre mujeres STEM.
+- Experiencias y reflexiones que inspiran.
+- Actividades interactivas y un Memory Wall.
+- Un ambiente para crear comunidad y nuevas amistades.
+
+## 🌷 Invitada especial
+
+**Dra. Tzarara López Luke**
+
+## ✦ Organizado por
+
+**Consejo Estudiantil de Mujeres en STEM — IBERO León**
+
+📸 [@ingeniosas.ibero](https://www.instagram.com/ingeniosas.ibero/)
+
+---
+
+<div align="center">
+
+*Ingeniosas: conectando talento, creando comunidad e inspirando el futuro.* 💜
+
+</div>
+  
